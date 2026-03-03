@@ -1,2 +1,1 @@
-- I used TPU 95A for the buttons to make them flexible.
-- For the LED cover, I used a simple piece of plastic, similar to a film.
+For the top and bottom parts I used PLA+, for the buttons I used TPU 95A, and for the LED cover I just used a simple piece of thin plastic.
